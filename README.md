@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vaibhav-porwal-a022561bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-porwal-9bb808183" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/vaibhav7895" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hacker" height="30" width="40" /></a><a href="https://www.hackerrank.com/vaibhav7895" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaibhavhacker" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/vaibhav7895" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hacker" height="30" width="40" /></a>
 </p>
 
 <img  width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
