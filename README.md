@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **React.js Redux and chakra-UI framework**
 
-- 👨‍💻 All of my projects are available at [https://vaibhav7895.github.io](https://tanmoy0151.github.io/)
+- 👨‍💻 All of my projects are available at [https://vaibhav7895.github.io](https://vaibhav7895.github.io/)
 
 - 💬 Ask me about **React, NodeJS, HTML, CSS, REDUX**
 
@@ -111,7 +111,7 @@
 <div align="center">
   
 
-  [![vaibhav's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vaibhav7895&theme=react)](https://github.com/vaibhav7895/github-readme-activity-graph)
+ 
 </div>
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
  <h2> ✍️ Random Dev Quote </h2>
