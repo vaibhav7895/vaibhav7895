@@ -1,7 +1,8 @@
 <!-- [![MasterHead](https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif)]() -->
+![1659152955486](https://user-images.githubusercontent.com/94694221/230530266-66cb4858-bdbe-4ad6-8b77-9b4dcf8658ca.jpg)
 
 
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+<!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
 <div>
 <h2 align="center">Hi 👋, I am Vaibhav Porwal.</h2>
     <h3 align="center">An aspiring MERN Stack Developer and I love to keep myself updated with the latest technologies</h3>
