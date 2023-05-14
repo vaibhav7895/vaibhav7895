@@ -86,7 +86,8 @@
 
 </div>
 <br/>
-
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=vaibhav7895&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vaibhav7895&label=Profile%20views&color=0e75b6&style=flat" alt="tanmoy0151" /> </p>
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
